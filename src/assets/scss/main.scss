@@ -1,0 +1,25 @@
+
+*{
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: lightblue;
+    font-size: 32px;
+}
+
+.remove{
+    padding: .3rem .6rem;
+    background: red;
+    color: #fff;
+    border-radius: 30px;
+    
+    
+}
+.remove:hover{
+    cursor: pointer;
+}
+
+ul li {
+    padding: .4rem;
+}
